@@ -1,0 +1,8 @@
+.idea/
+bin/
+
+build/ks
+coverage.out
+
+*.iml
+logs.txt
